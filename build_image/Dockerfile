@@ -63,4 +63,3 @@ RUN cd /swift/swift/ && utils/build-script \
     --android-icu-i18n /swift/libiconv-libicu-android/armeabi-v7a \
     --android-icu-i18n-include /swift/libiconv-libicu-android/armeabi-v7a/icu/source/i18n
 
-
